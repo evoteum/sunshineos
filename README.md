@@ -17,6 +17,10 @@
 
 ![](images/sunshine.png)
 
+> Er-Yes, Captain Star, sir! At once, sir!
+
+-- *Sunshine, TUGS "[Quarantine](https://youtu.be/VvutyFaaBlY)"*
+
 > [!IMPORTANT]
 > **Pre-pre-alpha**
 >
