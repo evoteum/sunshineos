@@ -15,6 +15,8 @@
 [//]: # (Must not have its own title)
 [//]: # (Must link to local image in current repository)
 
+![](images/sunshine.png)
+
 > [!IMPORTANT]
 > **Pre-pre-alpha**
 >
