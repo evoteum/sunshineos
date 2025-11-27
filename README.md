@@ -56,8 +56,15 @@ SunshineOS can report to any Harbourmaster.
 
 [//]: # (TOCGEN_TABLE_OF_CONTENTS_START)
 
+- [Security](#security)
+- [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
+- [Beyond the Drydock](#beyond-the-drydock)
+- [FAQ](#faq)
+    - [Why not just use Linux?](#why-not-just-use-linux)
+    - [Where did the name "SunshineOS" come from?](#where-did-the-name-sunshineos-come-from)
+    - [How big will it be?](#how-big-will-it-be)
 - [Documentation](#documentation)
 - [Repository Configuration](#repository-configuration)
 - [Contributing](#contributing)
